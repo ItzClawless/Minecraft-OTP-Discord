@@ -1,0 +1,11 @@
+TOKEN = "MTQ0MzAyODQ1NDgyMzE3MDIxOA.Gtt--l.eha7O1Dq4--mryMI2POxyKqOzsroAp-ypax_S4"
+API_KEY = ""
+MAILSLURP_API_KEY="sk_xCLBb7GTjI4W95ss_WESRnlxYbpoYdf2zz7UQ2dRO6XUqIxQ3nDZa922x3bSMQ03Ban2sJqHX411NrSTi"
+APPLICATION_ID ="1443028454823170218"
+
+
+#Dont Fill These In
+LastUsedEmail=""
+LastUserName=""
+LastRecoveryCode=""
+AUTHVALUE=""
